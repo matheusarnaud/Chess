@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Jogador\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=cor\ jogo
+comment1.target=Jogador(java.lang.String,\ Jogo)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Jogador\r\n
+comment10.params=
+comment10.target=Peca\ getRei()
+comment11.params=
+comment11.target=java.util.ArrayList\ getList()
+comment2.params=cor
+comment2.target=java.util.ArrayList\ getPecas(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getCasas()
+comment4.params=destino
+comment4.target=java.util.ArrayList\ getCasasDestino(Casa)
+comment5.params=
+comment5.target=boolean\ estaEmXeque()
+comment6.params=
+comment6.target=java.util.ArrayList\ getCasasDoRei()
+comment7.params=
+comment7.target=java.util.ArrayList\ getPecas()
+comment8.params=
+comment8.target=boolean\ getXeque()
+comment9.params=
+comment9.target=java.lang.String\ getCor()
+numComments=12
